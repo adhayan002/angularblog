@@ -1,0 +1,26 @@
+.blog-posts-container{
+    max-width: 600px;
+    margin: 0 auto;
+    margin-bottom: 150px;
+    padding: 20px;
+}
+
+.blog-posts-container img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.blog-posts-container h2{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.blog-posts-container .author{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.blog-posts-container .summary{
+    width: 100%;
+    margin-bottom: 20px;
+}
